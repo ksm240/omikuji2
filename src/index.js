@@ -20,7 +20,7 @@ button.addEventListener("click", () => {
       result.textContent = "中吉";
       break;
     case 4:
-      result.textContent = "末吉";
+      result.textContent = "大吉";
       break;
     default:
       result.textContent = "ここに結果表示";
